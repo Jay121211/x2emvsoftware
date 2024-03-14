@@ -1,6 +1,7 @@
 @echo off
 %~d0
 CD %~dp0
+load $5000/to card
 
 echo.
 echo Microsoft Visual C++ All-In-One Runtimes by W1zzard @ TechPowerUp
